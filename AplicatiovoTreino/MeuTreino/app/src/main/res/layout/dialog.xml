@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+
+    <EditText
+        android:id="@+id/edt_text_nome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_top"
+        android:background="@drawable/edit_style"
+        android:padding="@dimen/padding_edt"
+        android:hint="@string/escreva_o_treino"/>
+
+    <Spinner
+        android:id="@+id/spinner_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_top"
+        android:entries="@array/treinos"
+        android:padding="@dimen/padding_spinner"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/btn_update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/button_style"
+        android:layout_marginTop="@dimen/margin_top"
+        android:text="@string/atualizar"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:onClick="btnUpdate"
+        android:layout_marginEnd="5dp"
+        android:focusable="true"/>
+
+    <Button
+        android:id="@+id/btn_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/button_style_apagar"
+        android:layout_marginTop="@dimen/margin_top"
+        android:text="@string/apagar"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!-- cores principais -->
+
+    <color name="colorPrimaryEscuraStatusBar">#243471</color> <!-- status bar #17DA99  -->
+    <color name="colorPrimatyEscuraToolbar">#6076C5</color><!-- toolbar #35353E -->
+    <color name="colorPrimatyEscuraAccent">#243471</color><!-- accent #0BAD78 -->
+
+    <color name="colorPurple">#983CFF</color>
+    <color name="colorPurpleT">#64983cff</color>
+    <color name="colorBlue">#2FB4FF</color>
+    <color name="colorBlueT">#642fb4ff</color>
+
+    <color name="colorCards">#EEEEEE</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#292828</color>
+    <color name="colorFont">#424242</color>
+    <color name="coloredt">#7E7E7E</color>
+
+    <color name="colorAtualizar">#00B33E</color>
+
+
+</resources>

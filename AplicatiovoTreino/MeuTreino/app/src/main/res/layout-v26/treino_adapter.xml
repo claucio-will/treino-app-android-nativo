@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardUseCompatPadding="true"
+    app:cardCornerRadius="10dp"
+    android:layout_marginBottom="30dp">
+
+    <LinearLayout
+        android:background="@color/colorCards"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:autoSizeMaxTextSize="20dp"
+            android:text="biceps \ triceps e antebraco"
+            android:id="@+id/txtGrupoMuscular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:textColor="@color/colorPrimatyEscuraAccent"
+            android:textSize="@dimen/font_txt_adapter"
+            android:textStyle="bold"
+            android:typeface="monospace" />
+
+        <TextView
+            android:text="teste"
+            android:textColor="@color/colorBlack"
+            android:id="@+id/txtNomeExercicios"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+
+            android:padding="5dp"
+            android:textSize="17sp"
+            android:textStyle="italic" />
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

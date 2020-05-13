@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".novasActivity.MinhaFichaActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryEscuraStatusBar"
+        android:theme="?attr/actionBarTheme"
+        android:id="@+id/toolbar"
+        app:titleTextColor="@color/colorWhite"
+        app:subtitleTextColor="@color/colorWhite"/>
+
+    <ListView
+        android:layout_marginTop="55dp"
+        android:padding="10dp"
+        android:id="@+id/listViewTreinos"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <TextView
+        android:padding="50dp"
+        android:visibility="invisible"
+        android:id="@+id/txtNenhumItem"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/treino_vazio_txt"
+        android:textStyle="italic"
+        android:textColor="@color/coloredt"
+        android:textSize="25sp"
+        />
+
+</RelativeLayout>

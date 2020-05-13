@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Treino</string>
+    <string name="sair">Sair</string>
+    <string name="hint_exercicio">Escreva…</string>
+    <string name="meus_treinos">Meus Treinos</string>
+    <string name="criar_novo_treino">Criar novo Treino</string>
+    <string name="muay_thai">Muay Thai</string>
+    <string name="meus_treinos_da_semana">Meus treinos da Semana</string>
+    <string name="salvar">Salvar</string>
+    <string name="escreva_o_treino">Escreva o Treino</string>
+    <string name="digite_seu_exercicio">Digite seu Exercicio</string>
+    <string name="criar_treino_de_muscula_o">Criar Treino de musculação</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="apagar">Apagar</string>
+    <string name="treinos">Treinos</string>
+    <string name="treino">Meu Treino</string>
+    <string name="criar_treino">Criar Treino</string>
+    <string name="meu_treino">Minha Ficha de Treino</string>
+    <string name="agenda_de_treino_de_muay_thai">Agenda de Treino de Muay Thai</string>
+    <string name="erro_network">Você está sem coneção no momento, os dados exibidos estão offline, qualquer dados que tentar salvar só será salvo quando ouver uma coneção!</string>
+    <string name="foto">Foto</string>
+    <string name="hint_nome">Digite seu nome</string>
+    <string name="hint_email">Digite seu email</string>
+    <string name="hint_senha">Digite sua Senha</string>
+    <string name="criar">Criar</string>
+    <string name="hint_nova_conta">Não tem uma conta? crie uma</string>
+    <string name="boas_vindas">Bem-vindo ao Aplicativo Treino</string>
+    <string name="login">Login</string>
+    <string name="treino_vazio_txt">Você não possue nenhum treino! Crie no menu principal.</string>
+    <string name="hint_criar_conta">Crie sua conta</string>
+    <string name="aviso">Aviso!</string>
+    <string name="excluir">Excluir</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="pergunta_apagar">Essa ação é permanente e não pode ser desfeita</string>
+    <string name="erro">Erro</string>
+    <string name="mensagem_erro_login">Não foi possivel fazer o login, verifique se tem uma coneção com a internet e tente novamente.</string>
+    <string name="mensagem_erro_login_inicio">Não é possivel acessar a tela de login, verifique se tem uma coneção com a internet e tente novamente.</string>
+
+    <string name="mensagem_erro_cadastro">Não foi possivel criar a conta, verifique se tem uma coneção com a internet e tente novamente.</string>
+    <string name="erro_salvar_dados_internet">Não foi possivel salvar os dados, verifique se tem uma coneção com a internet.</string>
+    <string name="erro_excluir_dados_internet">Não foi possivel excluir os dados, verifique se tem uma coneção com a internet.</string>
+
+    <string name="nav_open">Abrir NavigationDrawe</string>
+    <string name="nav_close">Fechar NavigationDrawer</string>
+    <string name="mudar_de_conta">Mudar de Conta</string>
+    <string name="criar_e_editar">Crie ou edite seu treino</string>
+    <string name="usuario_atual">Usuario atual</string>
+    <string name="excluir_treino">Excluir treino?</string>
+    <string name="txt_criar_texto_hint">Nenhum treino! Crie seu treino acima.</string>
+    <string name="lutas">Lutas</string>
+    <string name="outros_treino">Outros Treino</string>
+    <string name="meu_treino_de_luta">Outros treinos</string>
+    <string name="hint_luta">Você não possue nenhum treino ou lutas! Crie acima</string>
+    <string name="minha_ficha_de_treino">Minha ficha de treino</string>
+    <string name="crie_ou_edite_seu_treino">Crie ou edite seu treino</string>
+    <string name="outros_treinos">Outros Treinos</string>
+    <string name="peso_e_medias">Peso e medidas(Em breve)</string>
+    <string name="ol_bem_vindo">Olá Bem-vindo</string>
+    <string name="o_que_gostaria_de_fazer_hoje">O que gostaria de fazer hoje?</string>
+    <string name="usuario">Usuario:</string>
+    <string name="ficha_de_treino">Ficha de treino</string>
+    <string name="criar_meu_treino">Criar treino</string>
+    <string name="pesomedidas">peso e medidas</string>
+    <string name="digite_a_senha_novamente">Digite a senha novamente</string>
+
+
+    <array name="treinos">
+        <item>Escolha...</item>
+        <item>Peito</item>
+        <item>Peito e Ombro Frontal</item>
+        <item>Peito e Tríceps</item>
+        <item>Peito / Tríceps e Ombro</item>
+        <item>Costas</item>
+        <item>Costas e Posteiro de Ombro</item>
+        <item>Costas / Posteiro de Ombro e Bíceps</item>
+        <item>Costas e Bíceps</item>
+        <item>Costas e Peito</item>
+        <item>Pernas</item>
+        <item>Panturrilhas</item>
+        <item>Posterior de coxa e Glúteos</item>
+        <item>Bíceps / Tríceps e Antebraço</item>
+        <item>Abdômen</item>
+    </array>
+
+    <array name="dias">
+        <item>Dias da semana</item>
+        <item>Segunda-feira</item>
+        <item>Terça-feira</item>
+        <item>Quarta-feira</item>
+        <item>Quinta-feira</item>
+        <item>Sexta-feira</item>
+        <item>Sabádo</item>
+        <item>Domingo</item>
+    </array>
+</resources>

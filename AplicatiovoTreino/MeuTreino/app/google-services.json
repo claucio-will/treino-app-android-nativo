@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "971110218253",
+    "firebase_url": "https://treinoapp-a564d.firebaseio.com",
+    "project_id": "treinoapp-a564d",
+    "storage_bucket": "treinoapp-a564d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971110218253:android:38b9857ae5622b44",
+        "android_client_info": {
+          "package_name": "br.com.claucio.meutreino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971110218253-b8e4m7bs734b5cvdai9k52r2so48f47b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.claucio.meutreino",
+            "certificate_hash": "64e85643fe09fd61ff44017c19c837c2153e03eb"
+          }
+        },
+        {
+          "client_id": "971110218253-0eliqf5vpui3ealp1u19hu140haqrsvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpeppsD5-a-fcfaOMnt92ESlxX_0KxrSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971110218253-0eliqf5vpui3ealp1u19hu140haqrsvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5528005745330896~2528584205"
+    }
+  ],
+  "configuration_version": "1"
+}

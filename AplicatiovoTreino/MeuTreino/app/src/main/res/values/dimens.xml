@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top">5dp</dimen>
+    <dimen name="padding_edt">14dp</dimen>
+    <dimen name="margin_top_principal">140dp</dimen>
+    <dimen name="padding_spinner">10dp</dimen>
+    <dimen name="padding_listview">5dp</dimen>
+    <dimen name="font_txt_title">30sp</dimen>
+    <dimen name="margin_baixo_edt">10dp</dimen>
+    <dimen name="font_txt_adapter">17sp</dimen>
+    <dimen name="size_dashboard">16sp</dimen>
+    <dimen name="font_txt_sub_adapter">14sp</dimen>
+</resources>
